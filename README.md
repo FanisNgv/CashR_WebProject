@@ -1,4 +1,4 @@
-# CashR_web_project
+# CashR_WebProject
 
 Тема данного веб-приложения: "Учет личных расходов". Стек технологий: MongoDB, Express.js, React, Node.js.
 
